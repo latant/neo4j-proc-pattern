@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/common/build/
+/neo4j-plugin/build/
+/server/build/
